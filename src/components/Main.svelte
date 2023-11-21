@@ -14,5 +14,8 @@
   <h4 class="relative z-9">Get in touch &rarr;</h4>
 </a>
 </div>
+<div class="relative shadow-2xl grid place-items-center">
+  <img src={"images/2022-11-30-Seussical-0994.jpeg"} alt="Profile Image" class="object-cover z-[2] max-h-[70vh]"/>
+</div>
   </section>
 </main>
